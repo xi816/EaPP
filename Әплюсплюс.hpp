@@ -3,7 +3,7 @@
 
 // Подключение сети имён
 #define куярга using
-#define исемләр namespace
+#define исемнәр namespace
 
 
 // Ввод-вывод

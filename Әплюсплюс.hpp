@@ -60,6 +60,8 @@
 #define мәсәлән case
 #define юк_бит_шундыйлар default
 
+#define инде ;
+
 
 // ООП
 #define класс class

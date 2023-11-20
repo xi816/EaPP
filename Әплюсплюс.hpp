@@ -17,6 +17,35 @@
 #define юл_бетте endl
 
 
+// Татарские цифры
+#define нуль 0
+#define бер 1
+#define ике 2
+#define өч 3
+#define дүрт 4
+#define биш 5
+#define алты 6
+#define җиде 7
+#define сигез 8
+#define тугыз 9
+#define ун 10
+
+
+// Логические/булевые операторы
+#define ҺӘМ &&
+#define ЯКИ ||
+#define һәм &
+#define яки |
+#define яки_юк ^
+
+#define күбрәк >
+#define әзрәк <
+#define ул =
+#define күбрәк_яки_шул >=
+#define әзрәк_яки_шул <=
+#define шундый_ук ==
+#define шундый_түгел !=
+
 // Объявление переменных
 #define башларга int main
 #define сан int
@@ -60,6 +89,7 @@
 #define мәсәлән case
 #define юк_бит_шундыйлар default
 
+#define эшлә ()
 #define инде ;
 
 
